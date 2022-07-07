@@ -1,2 +1,3 @@
 class Tetris:
-    pass
+    def play(self):
+        print("Tetris")
